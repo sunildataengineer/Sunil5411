@@ -119,6 +119,23 @@ education:
       - State-wise Seasonal Price Deviation %
       - Savings Potential from Forecast Adoption
     repo: https://github.com/Sunil5411/Farm-Input-Price-Volatility-Analysis-Forecasting
+
+- name: 🧬 Human Longevity Index (HLI)
+    description: API-powered global index ranking countries by human longevity factors — real-time health, sanitation, and inequality insights from World Bank data
+    tech_stack:
+      - Python 3.11
+      - pandas
+      - matplotlib
+      - seaborn
+      -  plotly
+      -  Power BI
+    KPIs:
+      - Longevity Impact Score (LIS)
+      - Policy Risk Index (PRI)
+      - Health Inequality Gap %
+      - Clean Life Years (CLY)
+      - Income vs Health ROI
+    repo: https://github.com/Sunil5411/Human-Longevity-Index--HLI-
 ```
 ## 🧠 Technical Skills
 ```yaml
