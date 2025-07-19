@@ -104,6 +104,21 @@ education:
       - Overloaded Station Alerts
       - Location-Wise Deployment Suggestions
     repo: https://github.com/Sunil5411/ev-charging-utilization-dashboard
+
+- name: Farm Input Price Volatility Analysis & Forecasting
+    description: Forecasting fertilizer, diesel, and seed price swings across Indian states
+    tech_stack:
+      - Python
+      - Time Series Forecasting (ARIMA, Prophet)
+      - Power BI
+      - MySQL
+    KPIs:
+      - Input Price Volatility Index (IPVI)
+      - Forecast Accuracy Score
+      - Early Price Spike Alert Lead Time
+      - State-wise Seasonal Price Deviation %
+      - Savings Potential from Forecast Adoption
+    repo: https://github.com/Sunil5411/Farm-Input-Price-Volatility-Analysis-Forecasting
 ```
 ## 🧠 Technical Skills
 ```yaml
