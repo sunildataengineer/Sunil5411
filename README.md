@@ -3,11 +3,11 @@
 ```yaml
 about_me:
   name: B. Sunil Kumar Reddy
-  role: Data Analyst | BI Developer
-  located_in: Madhapur, Hyderabad, Telangana, India
+  role: Data Engineer
+  located_in: Hebbal, Bangalore, Karnataka, India
   availability: Immediate Joiner
   open_to: Remote & Relocation
-  2025_goal: Secure my dream role as a Data Analyst
+  2026_goal: Secure my dream role as a Data Engineer
   hobbies:
     - Travelling
     - Cooking
@@ -35,6 +35,17 @@ about_me:
     - Machine Learning
 
 education:
+ - institution: HIMALAYAN GARHWAL UNIVERSITY
+    location: Uttarakhand, India
+    period: Jun 2022 – Mar 2024
+    degree: Masters of Computer Application
+    cgpa: 8.0/10
+    relevant_coursework:
+      - Data Engineering
+      - Data Wherehousing
+      - Data Modelling
+
+
   - institution: HIMALAYAN GARHWAL UNIVERSITY
     location: Uttarakhand, India
     period: May 2019 – Aug 2021
